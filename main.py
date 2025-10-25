@@ -2,7 +2,6 @@ import cv2
 from Detect import monkey_state,MonkeyState
 
 
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 size= (640,480)
 
 
